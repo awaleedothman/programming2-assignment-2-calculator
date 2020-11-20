@@ -1,0 +1,5 @@
+1. inside the demo directory, open cmd or powerShell and enter the following command without quotations: "./gradlew bootRun"
+
+2. while the last window still open, inside the vue-test-app directory, open another cmd or powerShell and enter the following command without quotations: "npm run serve"
+
+3. visit "http://localhost:8081/"

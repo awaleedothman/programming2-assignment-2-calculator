@@ -1,0 +1,2 @@
+1. Body.vue component completely hidden when opening from mobile
+2. Is it normal a simple calculator size is nearly 150 MB?
